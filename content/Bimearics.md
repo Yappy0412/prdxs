@@ -1,7 +1,12 @@
+[[index|HOME]]
+
+---
+[Intro]
 Kids eats tale
 Good rule, God rule
 Moon wanna tell
 
+[Verse 1]
 Through car to jam, mom's a charity sick
 Ah, not let not agent
 Son's not call to more car, era let not ease
@@ -19,6 +24,7 @@ Son dear, what to tell
 Do not want a war
 To can done now ?
 
+[Chorus 1]
 What's cutted, two more leader
 New key does set no we
 On naughty zeal pattern
@@ -26,6 +32,7 @@ Say no! yeah! my numb to know
 Cool equal age, at let?
 Burn messiah could talk care?
 
+[Verse 2]
 Oops! shake unease Joe say
 Of now in journey ?
 Sing and more analogy more
@@ -40,6 +47,7 @@ No need war king get turn
 At mars no naked wow
 Do not end all war ?
 
+[Chorus 2]
 What's cutted, two more leader
 New key does set no we
 On naughty zeal pattern
@@ -47,11 +55,13 @@ Say no! yeah! my numb to know
 Cool equal age, at let?
 Kids know no key good, war do cold dark edge
 
+[Verse 3]
 Good raw but rythm
 Desk love letter know you
 If turn neck you call through dark Eden
 Getting joe easy
 
+[Bridge]
 Yeah! Yeah! 
 Good raw but rythm wow
 Gun call we dose take
@@ -60,6 +70,7 @@ Early moon then
 Walk and stay level down more and
 On no "G" jump!
 
+[Build-up]
 Key zoom in AI chat world, 
 Say call we hate war!
 Doom ear raw!
@@ -78,8 +89,10 @@ My Nietzsche, My Nietzsche
 Good rule, God rule
 Aim moon no two call day never
 
+[Drop]
 Say no! yeah! my numb to know
 
+[Chorus 3]
 What's cutted, two more leader
 New key does set no we
 On naughty zeal pattern
@@ -87,6 +100,7 @@ Say no! yeah! my numb to know
 Can get me too cold to a rule ?
 Aren't no say cut sweet june
 
+[Final Chorus]
 What's cutted, two more leader
 New key does set no we
 On naughty zeal pattern
@@ -94,15 +108,15 @@ Say no! yeah! my numb to know
 More too hot sea got a law
 DAW threw ?
 
+[Outro]
 Sir, it show no heat to got,
 About yet tell?
 
 ![[_prdxs/img/Bimearics_aa_1500.jpg|200]]
 
+---
 # PARADΦXIS
 [[index|HOME]]
-<!--
-![[Spotify_logo.png|15]] (Spotify](https://open.spotify.com/intl-ja/artist/0H59lkGpSwf3Dzw2ZsLhL3)
--->
- [Audius](https://audius.co/paradoxis)
- 
+
+[Spotify](https://open.spotify.com/intl-ja/artist/0H59lkGpSwf3Dzw2ZsLhL3)
+[Audius](https://audius.co/paradoxis)

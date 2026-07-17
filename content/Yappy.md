@@ -51,8 +51,6 @@ AI is the only one who can express them without hesitation.
 ---
 # PARADΦXIS
 [[index|HOME]]
-<!--
-![[Spotify_logo.png|15]] (Spotify](https://open.spotify.com/intl-ja/artist/0H59lkGpSwf3Dzw2ZsLhL3)
--->
- [Audius](https://audius.co/paradoxis)
- 
+
+[Spotify](https://open.spotify.com/intl-ja/artist/0H59lkGpSwf3Dzw2ZsLhL3)
+[Audius](https://audius.co/paradoxis)

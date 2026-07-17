@@ -15,6 +15,8 @@ Yet the farther you drift, the clearer it becomes.
 
 
 ---
+# Previously
+[[About It]]
 # - Song classification -
 ## by Philosophy
 ( Under Construction )
@@ -38,7 +40,6 @@ Narrative
 ---
 # PARADΦXIS
 [[index|HOME]]
-<!--
-![[Spotify_logo.png|15]] [Spotify](https://open.spotify.com/intl-ja/artist/0H59lkGpSwf3Dzw2ZsLhL3)
-![[Audius_logo.png|15]] [Audius](https://audius.co/paradoxis)
--->
+
+[Spotify](https://open.spotify.com/intl-ja/artist/0H59lkGpSwf3Dzw2ZsLhL3)
+[Audius](https://audius.co/paradoxis)
