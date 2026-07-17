@@ -1,11 +1,14 @@
 
+ [[index|HOME]]
+ 
+ ---
+ 
 ![[img/Φ.png|100]]
 # PARADΦXIS
 This is only one path drawn from the world.  
 Yet the farther you drift, the clearer it becomes.
 ( AI Generated Music & Human Lyrics )
 
- [[index|HOME]]
  
 ---
 # - New Release -
@@ -15,8 +18,13 @@ Yet the farther you drift, the clearer it becomes.
 
 
 ---
-# Previously
+# - Previously -
+
+![[_prdxs/img/About it_aa_1500.jpg|200]]
 [[About It]]
+
+
+---
 # - Song classification -
 ## by Philosophy
 ( Under Construction )
@@ -24,7 +32,7 @@ Human
 Humanity
 Bias
 Narrative
-<br>
+
 
 ---
 # - AI Singer -
@@ -35,7 +43,7 @@ Narrative
 
 ![[img/yappy.jpg|100]]
 [[Yappy]]
-<br>
+
 
 ---
 # PARADΦXIS
