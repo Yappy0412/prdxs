@@ -20,6 +20,9 @@ Yet the farther you drift, the clearer it becomes.
 ---
 # - Previously -
 
+![[_prdxs/img/Gray Zone_aa_1500.jpg|200]]
+[[Gray Zone]]
+
 ![[_prdxs/img/About it_aa_1500.jpg|200]]
 [[About It]]
 
