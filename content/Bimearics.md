@@ -114,6 +114,9 @@ About yet tell?
 
 ![[_prdxs/img/Bimearics_aa_1500.jpg|200]]
 
+[Spotify](https://open.spotify.com/intl-ja/track/3ovmVMnwPOCmEPUIJw2HOj?si=3ccdc51316e04640)
+[Audius](https://audius.co/PARADOXIS/bimearics)
+
 ---
 # PARADΦXIS
 [[index|HOME]]
