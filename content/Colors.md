@@ -99,9 +99,8 @@ And still it softly glows
 
 ![[_prdxs/img/Colors_aa_1500.jpg|200]]
 
-<!--
-[Spotify](https://open.spotify.com/album/50Buh5toKd88mPVOOqQa4R)
--->
+
+[Spotify](https://open.spotify.com/intl-ja/track/3GHttUs7eiQcxZimFOafjg?si=60fea4a4d8034045)
 [Audius](https://audius.co/PARADOXIS/colors-1)
 
 
