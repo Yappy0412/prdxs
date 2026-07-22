@@ -13,13 +13,17 @@ Yet the farther you drift, the clearer it becomes.
 ---
 # - New Release -
 
-![[_prdxs/img/Bimearics_aa_1500.jpg|200]]
-[[Bimearics]]
-
+![[_prdxs/img/Matrix_aa_1500.jpg|200]]
+[[Matrix]]
 
 ---
 # - Previously -
 
+![[_prdxs/img/Bimearics_aa_1500.jpg|200]]
+[[Bimearics]]
+
+![[_prdxs/img/Colors_aa_1500.jpg|200]]
+[[Colors]]
 
 ![[_prdxs/img/Infinity iii_aa_1500.jpg|200]]
 [[Infinity]]
