@@ -13,11 +13,14 @@ Yet the farther you drift, the clearer it becomes.
 ---
 # - New Release -
 
-![[_prdxs/img/Matrix_aa_1500.jpg|200]]
-[[Matrix]]
+![[_prdxs/img/Forget-me-not_aa_1500.jpg|200]]
+[[Forget-me-not]]
 
 ---
 # - Previously -
+
+![[_prdxs/img/Matrix_aa_1500.jpg|200]]
+[[Matrix]]
 
 ![[_prdxs/img/Bimearics_aa_1500.jpg|200]]
 [[Bimearics]]
