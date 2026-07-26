@@ -13,6 +13,10 @@ Yet the farther you drift, the clearer it becomes.
 ---
 # - New Release -
 
+
+![[img/Me_aa_1500.jpg|200]]
+[[Me]]
+
 ![[img/Enemy_aa_1500.jpg|200]]
 [[Enemy]]
 
@@ -24,9 +28,6 @@ Yet the farther you drift, the clearer it becomes.
 
 ![[img/Matrix_aa_1500.jpg|200]]
 [[Matrix]]
-
-![[img/Bimearics_aa_1500.jpg|200]]
-[[Bimearics]]
 
 ![[img/Colors_aa_1500.jpg|200]]
 [[Colors]]
