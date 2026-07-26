@@ -97,7 +97,7 @@ Was shining long ago
 Thirteen billion years before
 And still it softly glows
 
-![[_prdxs/img/Colors_aa_1500.jpg|200]]
+![[img/Colors_aa_1500.jpg|200]]
 
 
 [Spotify](https://open.spotify.com/intl-ja/track/3GHttUs7eiQcxZimFOafjg?si=60fea4a4d8034045)

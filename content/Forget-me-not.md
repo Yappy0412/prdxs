@@ -96,7 +96,7 @@ Do you remember?
 Do you remember
 What you have forgotten?
 
-![[_prdxs/img/Forget-me-not_aa_1500.jpg|200]]
+![[img/Forget-me-not_aa_1500.jpg|200]]
 
 <!--
 [Spotify](https://open.spotify.com/intl-ja/track/3ovmVMnwPOCmEPUIJw2HOj?si=3ccdc51316e04640)

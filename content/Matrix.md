@@ -86,7 +86,7 @@ Someone else will take the twine
 [Outro]
 Without even realizing
 
-![[_prdxs/img/Matrix_aa_1500.jpg|200]]
+![[img/Matrix_aa_1500.jpg|200]]
 
 <!--
 [Spotify](https://open.spotify.com/album/50Buh5toKd88mPVOOqQa4R)

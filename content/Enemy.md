@@ -99,7 +99,7 @@ Like a devil
 Even if the question  
 Never truly ends
 
-![[_prdxs/img/Enemy_aa_1500.jpg|200]]
+![[img/Enemy_aa_1500.jpg|200]]
 
 <!--
 [Spotify](https://open.spotify.com/intl-ja/track/3GHttUs7eiQcxZimFOafjg?si=60fea4a4d8034045)

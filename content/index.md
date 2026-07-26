@@ -13,31 +13,31 @@ Yet the farther you drift, the clearer it becomes.
 ---
 # - New Release -
 
-![[_prdxs/img/Enemy_aa_1500.jpg|200]]
+![[img/Enemy_aa_1500.jpg|200]]
 [[Enemy]]
 
-![[_prdxs/img/Forget-me-not_aa_1500.jpg|200]]
+![[img/Forget-me-not_aa_1500.jpg|200]]
 [[Forget-me-not]]
 
 ---
 # - Previously -
 
-![[_prdxs/img/Matrix_aa_1500.jpg|200]]
+![[img/Matrix_aa_1500.jpg|200]]
 [[Matrix]]
 
-![[_prdxs/img/Bimearics_aa_1500.jpg|200]]
+![[img/Bimearics_aa_1500.jpg|200]]
 [[Bimearics]]
 
-![[_prdxs/img/Colors_aa_1500.jpg|200]]
+![[img/Colors_aa_1500.jpg|200]]
 [[Colors]]
 
-![[_prdxs/img/Infinity iii_aa_1500.jpg|200]]
+![[img/Infinity iii_aa_1500.jpg|200]]
 [[Infinity]]
 
-![[_prdxs/img/Gray Zone_aa_1500.jpg|200]]
+![[img/Gray Zone_aa_1500.jpg|200]]
 [[Gray Zone]]
 
-![[_prdxs/img/About it_aa_1500.jpg|200]]
+![[img/About it_aa_1500.jpg|200]]
 [[About It]]
 
 

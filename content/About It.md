@@ -100,7 +100,7 @@ I return
 to what I can only call  
 Your presence
 
-![[_prdxs/img/About it_aa_1500.jpg|200]]
+![[img/About it_aa_1500.jpg|200]]
 
 ---
 # PARADΦXIS

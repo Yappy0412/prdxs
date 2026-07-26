@@ -80,7 +80,7 @@ monetizing your soul
 Where’s the gray now,
 where black and white collide?
 
-![[_prdxs/img/Gray Zone_aa_1500.jpg|200]]
+![[img/Gray Zone_aa_1500.jpg|200]]
 
 [Spotify](https://open.spotify.com/album/50Buh5toKd88mPVOOqQa4R)
 [Audius](https://audius.co/PARADOXIS/gray-zone-1)

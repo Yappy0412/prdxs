@@ -98,7 +98,7 @@ Even toward the human heart.
 What is
 your inner wealth?
 
-![[_prdxs/img/Infinity iii_aa_1500.jpg|200]]
+![[img/Infinity iii_aa_1500.jpg|200]]
 
 [ii Spotify](https://open.spotify.com/album/4MCmnh6Q0zLAyvOvQbiGxB)
 [iii Spotify](https://distrokid.com/hyperfollow/syzygy12/infinity-iii)

@@ -110,7 +110,7 @@ it’s out of scope
 If we meet,
 who is afraid?
 
-![[_prdxs/img/Me_aa_1500.jpg|200]]
+![[img/Me_aa_1500.jpg|200]]
 
 
 [Spotify](https://open.spotify.com/intl-ja/track/2XmwYFCHKi2tncUMKHTay5)
