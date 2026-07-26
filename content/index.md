@@ -13,6 +13,9 @@ Yet the farther you drift, the clearer it becomes.
 ---
 # - New Release -
 
+![[_prdxs/img/Enemy_aa_1500.jpg|200]]
+[[Enemy]]
+
 ![[_prdxs/img/Forget-me-not_aa_1500.jpg|200]]
 [[Forget-me-not]]
 
