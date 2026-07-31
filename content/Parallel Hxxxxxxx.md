@@ -103,9 +103,7 @@ Were you able to remember?
 
 ![[img/Parallel Hxxxxxxx_aa_1500.jpg|200]]
 
-<!--
-[Spotify](https://open.spotify.com/intl-ja/track/3ovmVMnwPOCmEPUIJw2HOj?si=3ccdc51316e04640)
--->
+[Spotify](https://open.spotify.com/intl-ja/track/4S1CXovp6rzkwSMk7iV39h?si=c4154edc2f614d87)
 [Audius](https://audius.co/PARADOXIS/parallel-hxxxxxxx)
 
 ---
