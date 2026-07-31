@@ -102,6 +102,9 @@ Your presence
 
 ![[img/About it_aa_1500.jpg|200]]
 
+[Spotify](https://open.spotify.com/album/3QphWxBFLbkz6BITbC5EHm?si=iin5WBmNR3SDCxWRA22V_A)
+[Audius](https://audius.co/PARADOXIS/about-it-2)
+
 ---
 # PARADΦXIS
 [[index|HOME]]

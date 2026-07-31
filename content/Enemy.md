@@ -101,9 +101,7 @@ Never truly ends
 
 ![[img/Enemy_aa_1500.jpg|200]]
 
-<!--
-[Spotify](https://open.spotify.com/intl-ja/track/3GHttUs7eiQcxZimFOafjg?si=60fea4a4d8034045)
--->
+[Spotify](https://open.spotify.com/album/3tq67sAbCvvioADs750UDg?si=k-AvUlw5T-2blZqycU8RtA)
 [Audius](https://audius.co/PARADOXIS/enemy-5)
 
 

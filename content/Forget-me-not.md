@@ -98,9 +98,7 @@ What you have forgotten?
 
 ![[img/Forget-me-not_aa_1500.jpg|200]]
 
-<!--
-[Spotify](https://open.spotify.com/intl-ja/track/3ovmVMnwPOCmEPUIJw2HOj?si=3ccdc51316e04640)
--->
+[Spotify](https://open.spotify.com/album/0Y43MTlSAdnSGBwMCM7Oyy?si=4r43cQAJQuS4TKFjT1HIJg)
 [Audius](https://audius.co/PARADOXIS/forget-me-not)
 
 ---

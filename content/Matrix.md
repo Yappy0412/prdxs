@@ -88,9 +88,7 @@ Without even realizing
 
 ![[img/Matrix_aa_1500.jpg|200]]
 
-<!--
-[Spotify](https://open.spotify.com/album/50Buh5toKd88mPVOOqQa4R)
--->
+[Spotify](https://open.spotify.com/album/7ii6zlz7pn2NzYjRz830HL?si=4IhqWtAnSDa3XDlZeX8-hw)
 [Audius](https://audius.co/PARADOXIS/matrix)
 
 ---

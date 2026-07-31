@@ -14,6 +14,9 @@ Yet the farther you drift, the clearer it becomes.
 # - New Release -
 
 
+![[img/Parallel Hxxxxxxx_aa_1500.jpg|200]]
+[[Parallel Hxxxxxxx]]
+
 ![[img/Problem_aa_1500.jpg|200]]
 [[Problem]]
 
