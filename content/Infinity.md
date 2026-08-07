@@ -100,9 +100,11 @@ your inner wealth?
 
 ![[img/Infinity iii_aa_1500.jpg|200]]
 
+[Origin Spotify](https://open.spotify.com/intl-ja/track/1dBxHRxJkSXU5zzE8w1RQn)
 [ii Spotify](https://open.spotify.com/album/4MCmnh6Q0zLAyvOvQbiGxB)
-[iii Spotify](https://distrokid.com/hyperfollow/syzygy12/infinity-iii)
+[iii Spotify](https://open.spotify.com/intl-ja/track/05UZGroWD1pcgMiRftslkP)
 
+[Origin Audius](https://audius.co/PARADOXIS/infinity-origin)
 [ii Audius](https://audius.co/PARADOXIS/infinity-2)
 [iii Audius](https://audius.co/PARADOXIS/infinity-iii)
 
