@@ -14,8 +14,16 @@ Yet the farther you drift, the clearer it becomes.
 # - New Release -
 
 
+![[_prdxs/img/Conditional_aa_1500.jpg|200]]
+[[Conditional]]
+
+
 ![[img/Parallel Hxxxxxxx_aa_1500.jpg|200]]
 [[Parallel Hxxxxxxx]]
+
+---
+# - Previously -
+
 
 ![[img/Problem_aa_1500.jpg|200]]
 [[Problem]]
@@ -28,9 +36,6 @@ Yet the farther you drift, the clearer it becomes.
 
 ![[img/Forget-me-not_aa_1500.jpg|200]]
 [[Forget-me-not]]
-
----
-# - Previously -
 
 ![[img/Matrix_aa_1500.jpg|200]]
 [[Matrix]]
