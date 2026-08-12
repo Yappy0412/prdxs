@@ -21,8 +21,16 @@ Yet the farther you drift, the clearer it becomes.
 ![[img/Parallel Hxxxxxxx_aa_1500.jpg|200]]
 [[Parallel Hxxxxxxx]]
 
+
+![[img/Forget-me-not_aa_1500.jpg|200]]
+[[Forget-me-not]]
+
 ---
 # - Previously -
+
+
+![[img/Noah_aa_1500.jpg|200]]
+[[Noah]]
 
 
 ![[img/Problem_aa_1500.jpg|200]]
@@ -34,8 +42,6 @@ Yet the farther you drift, the clearer it becomes.
 ![[img/Enemy_aa_1500.jpg|200]]
 [[Enemy]]
 
-![[img/Forget-me-not_aa_1500.jpg|200]]
-[[Forget-me-not]]
 
 ![[img/Matrix_aa_1500.jpg|200]]
 [[Matrix]]
