@@ -14,6 +14,10 @@ Yet the farther you drift, the clearer it becomes.
 # - New Release -
 
 
+![[_prdxs/img/Der letzte Mensch_aa_1500.jpg|200]]
+[[Der letzte Mensch]]
+
+
 ![[_prdxs/img/Conditional_aa_1500.jpg|200]]
 [[Conditional]]
 
@@ -28,10 +32,11 @@ Yet the farther you drift, the clearer it becomes.
 ---
 # - Previously -
 
+![[img/Judgment_aa_1500.jpg|200]]
+[[Judgment]]
 
 ![[img/Noah_aa_1500.jpg|200]]
 [[Noah]]
-
 
 ![[img/Problem_aa_1500.jpg|200]]
 [[Problem]]
@@ -41,7 +46,6 @@ Yet the farther you drift, the clearer it becomes.
 
 ![[img/Enemy_aa_1500.jpg|200]]
 [[Enemy]]
-
 
 ![[img/Matrix_aa_1500.jpg|200]]
 [[Matrix]]
