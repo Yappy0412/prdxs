@@ -13,15 +13,15 @@ Yet the farther you drift, the clearer it becomes.
 ---
 # - New Release -
 
-![[_prdxs/img/Revolver_aa_1500.jpg|200]]
-[[Der letzte Mensch]]
+![[img/Revolver_aa_1500.jpg|200]]
+[[Revolver]]
 2026/08/30
 
-![[_prdxs/img/Der letzte Mensch_aa_1500.jpg|200]]
+![[img/Der letzte Mensch_aa_1500.jpg|200]]
 [[Der letzte Mensch]]
 
 
-![[_prdxs/img/Conditional_aa_1500.jpg|200]]
+![[img/Conditional_aa_1500.jpg|200]]
 [[Conditional]]
 
 
