@@ -13,6 +13,10 @@ Yet the farther you drift, the clearer it becomes.
 ---
 # - New Release -
 
+![[img/Equations_aa_1500.jpg|200]]
+[[Equations]]
+2026/09/6
+
 ![[img/Revolver_aa_1500.jpg|200]]
 [[Revolver]]
 2026/08/30
