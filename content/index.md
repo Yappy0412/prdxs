@@ -13,6 +13,23 @@ Yet the farther you drift, the clearer it becomes.
 ---
 # - New Release -
 
+
+![[_prdxs/img/Security_aa_1500.jpg|200]]
+[[Security]]
+2026/10/01
+
+![[_prdxs/img/Amor Fati_aa_1500.jpg|200]]
+[[Amor Fati]]
+2026/09/25
+
+![[img/Joker_aa_1500.jpg|200]]
+[[Joker]]
+2026/09/17
+
+![[img/Spell_aa_1500.jpg|200]]
+[[Spell]]
+2026/09/11
+
 ![[img/Equations_aa_1500.jpg|200]]
 [[Equations]]
 2026/09/6
@@ -84,11 +101,11 @@ Narrative
 # - AI Singer -
 
 ![[img/Syzygy_prof.png|100]]
-[[Syzygy]]
+[[_prdxs/Syzygy]]
 # - Lyrics & Engineering -
 
 ![[img/yappy.jpg|100]]
-[[Yappy]]
+[[_prdxs/Yappy]]
 
 
 ---

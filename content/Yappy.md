@@ -46,7 +46,7 @@ Japanese independent electronic project exploring tension between modern systems
 
 My lyrics are unique.
 AI is the only one who can express them without hesitation.
-[[Syzygy]]
+[[_prdxs/Syzygy]]
 
 ---
 # PARADΦXIS
