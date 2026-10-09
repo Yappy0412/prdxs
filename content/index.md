@@ -14,6 +14,10 @@ Yet the farther you drift, the clearer it becomes.
 # - New Release -
 
 
+![[_prdxs/img/The Same Old Frame_aa_1500.jpg|200]]
+[[The Same Old Flame]]
+2026/10/09
+
 ![[_prdxs/img/Security_aa_1500.jpg|200]]
 [[Security]]
 2026/10/01
