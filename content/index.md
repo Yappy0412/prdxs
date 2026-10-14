@@ -13,6 +13,9 @@ Yet the farther you drift, the clearer it becomes.
 ---
 # - New Release -
 
+![[_prdxs/img/Blue_aa_1500.jpg|200]]
+[[Blue]]
+2026/10/14
 
 ![[_prdxs/img/The Same Old Frame_aa_1500.jpg|200]]
 [[The Same Old Flame]]
@@ -26,75 +29,10 @@ Yet the farther you drift, the clearer it becomes.
 [[Amor Fati]]
 2026/09/25
 
-![[img/Joker_aa_1500.jpg|200]]
-[[Joker]]
-2026/09/17
-
-![[img/Spell_aa_1500.jpg|200]]
-[[Spell]]
-2026/09/11
-
-![[img/Equations_aa_1500.jpg|200]]
-[[Equations]]
-2026/09/6
-
-![[img/Revolver_aa_1500.jpg|200]]
-[[Revolver]]
-2026/08/30
-
-![[img/Der letzte Mensch_aa_1500.jpg|200]]
-[[Der letzte Mensch]]
-
-
-![[img/Conditional_aa_1500.jpg|200]]
-[[Conditional]]
-
-
-![[img/Parallel Hxxxxxxx_aa_1500.jpg|200]]
-[[Parallel Hxxxxxxx]]
-
-
-![[img/Forget-me-not_aa_1500.jpg|200]]
-[[Forget-me-not]]
-
 ---
 # - Previously -
 
-![[img/Judgment_aa_1500.jpg|200]]
-[[Judgment]]
-
-![[img/Noah_aa_1500.jpg|200]]
-[[Noah]]
-
-![[img/Problem_aa_1500.jpg|200]]
-[[Problem]]
-
-![[img/Me_aa_1500.jpg|200]]
-[[Me]]
-
-![[img/Enemy_aa_1500.jpg|200]]
-[[Enemy]]
-
-![[img/Matrix_aa_1500.jpg|200]]
-[[Matrix]]
-
-![[img/Colors_aa_1500.jpg|200]]
-[[Colors]]
-
-![[img/Infinity iii_aa_1500.jpg|200]]
-[[Infinity]]
-
-![[img/Gray Zone_aa_1500.jpg|200]]
-[[Gray Zone]]
-
-![[img/About it_aa_1500.jpg|200]]
-[[About It]]
-
-
----
-# - Song classification -
-## by Philosophy
-( Under Construction )
+[[Classification by Philosophy]]
 Human
 Humanity
 Bias
