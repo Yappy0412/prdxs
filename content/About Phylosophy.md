@@ -3,7 +3,7 @@
 ---
 # About Phylosophy
 
-[[SRSBTシステム（超人思想の逆工学）※執筆中]]
+[[SRSBT Sys.]]
 ## Bias
 Bias is a network-style narrative.
 
