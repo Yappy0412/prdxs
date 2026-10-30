@@ -3,7 +3,7 @@
 ---
 # About Phylosophy
 
-[[SRSBT Sys.]]
+[[SRSBT SYSTEM]]
 ## Bias
 Bias is a network-style narrative.
 
