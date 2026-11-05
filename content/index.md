@@ -13,6 +13,10 @@ Yet the farther you drift, the clearer it becomes.
 ---
 # - New Release -
 
+![[img/Domino_aa_1500.jpg|200]]
+[[Domino]]
+2026/11/3
+
 ![[img/Blue_aa_1500.jpg|200]]
 [[Blue]]
 2026/10/14

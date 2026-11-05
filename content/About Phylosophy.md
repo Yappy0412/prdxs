@@ -3,7 +3,7 @@
 ---
 # About Phylosophy
 
-[[SRSBT SYSTEM]]
+[[SRSBT SYSTEM (Reverse Engineering the Übermensch Ideology)]]
 ## Bias
 Bias is a network-style narrative.
 
